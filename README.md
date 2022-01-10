@@ -3,5 +3,4 @@ Practical math exercises using Python in Bulgarian
 
 This is still WIP
 
-To start learning click here:
-https://hub.mybinder.turing.ac.uk/user/mihailv1989-practical_math_bg-ih70rc0w/doc/tree/welcome.ipynb
+To start learning click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MihailV1989/practical_math_bg/main?labpath=welcome.ipynb)
