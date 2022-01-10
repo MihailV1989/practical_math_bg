@@ -4,7 +4,6 @@ channels:
 dependencies:
   - numpy
   - ipympl
-  - jupyter-matplotlib
   - matplotlib >=3.3.1
   - pandas
   - opencv
