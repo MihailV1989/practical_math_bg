@@ -1,11 +1,11 @@
 name: default-environment
 channels:
-  - anaconda
   - conda-forge
 dependencies:
   - numpy
-  - matplotlib
+  - ipympl
+  - jupyter-matplotlib
+  - matplotlib >=3.3.1
   - pandas
-  - pip
-  - pip:
-    - opencv-python
+  - opencv
+  - pillow
