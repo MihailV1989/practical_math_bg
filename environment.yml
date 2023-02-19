@@ -1,0 +1,10 @@
+name: default-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - ipympl
+  - matplotlib >=3.3.1
+  - pandas
+  - opencv
+  - pillow

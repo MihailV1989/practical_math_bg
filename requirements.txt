@@ -1,0 +1,6 @@
+matplotlib
+ipywidgets
+ipympl
+numpy
+jupyter_contrib_nbextensions
+opencv-python
